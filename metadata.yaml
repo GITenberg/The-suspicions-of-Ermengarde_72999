@@ -1,0 +1,30 @@
+_repo: The-suspicions-of-Ermengarde_72999
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gray, Maxwell
+    alias: Tuttiett, Mary Gleed
+    birthdate: 1846
+    deathdate: 1923
+    gutenberg_agent_id: '56859'
+    url: http://www.gutenberg.org/2009/agents/56859
+    wikipedia: https://en.wikipedia.org/wiki/Maxwell_Gray
+description: ''
+gutenberg_issued: '2024-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72999'
+language: en
+pgterms:marc904: https://archive.org/details/suspicionsoferme0000maxw
+pgterms:marc905: 20240211095701gray
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: '  $aLondon :$bJohn Long, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The suspicions of Ermengarde
+url: http://www.gutenberg.org/ebooks/72999
