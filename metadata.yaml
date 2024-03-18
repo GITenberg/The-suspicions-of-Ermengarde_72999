@@ -1,5 +1,8 @@
 _repo: The-suspicions-of-Ermengarde_72999
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72999-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Gray, Maxwell
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56859
     wikipedia: https://en.wikipedia.org/wiki/Maxwell_Gray
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72999#The-suspicions-of-Ermengarde
 gutenberg_issued: '2024-02-20'
 gutenberg_type: Text
 identifiers:
